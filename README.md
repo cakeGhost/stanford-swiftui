@@ -5,4 +5,4 @@ cs193p-swiftui 🔥
 
 ## Lecture 1: Lecture 1: Getting started with SwiftUI
 [Video](https://youtu.be/bqu6BquVi2M)
-[lecture01] ()
+[lecture01] (https://github.com/cakeGhost/stanford-swiftui/blob/main/Lecture01/Lecture01.md)
