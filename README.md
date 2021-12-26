@@ -8,7 +8,7 @@ cs193p-swiftui 🔥
 
 
 ### Lecture 1: Getting started with SwiftUI
-[💡 Lecture01] 
+[💡 Lecture01] (Lecture01/Lecture01.md)
 
 
 
