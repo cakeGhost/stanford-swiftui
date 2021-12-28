@@ -51,7 +51,7 @@ struct ContentView02_Previews: PreviewProvider {
 <br>
 <br>
 # @State 
-![image](https://user-images.githubusercontent.com/94977962/147564826-269e234d-428e-4ae5-9434-63436bd5a899.png)
+![image](https://user-images.githubusercontent.com/94977962/147564978-fd747ee2-e3bf-4aae-8a09-d8f0a497eaa0.png)
 
 state값이 변경되면 view가 appearance를 invalidates하고 body를 다시 계산함 
 
