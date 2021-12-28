@@ -50,6 +50,7 @@ struct ContentView02_Previews: PreviewProvider {
 
 <br>
 <br>
+
 # @State 
 
 ![image](https://user-images.githubusercontent.com/94977962/147564978-fd747ee2-e3bf-4aae-8a09-d8f0a497eaa0.png)
